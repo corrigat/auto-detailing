@@ -6,7 +6,7 @@ Be mindful that these are just what I use. There are other products on the marke
   * links
     1. https://www.amazon.com/Sun-Joe-SPX3001-Electric-Pressure/dp/B00LX8Z03K/ref=sr_1_1?ie=UTF8&qid=1529966686&sr=8-1&keywords=sunjoe+3001
 
- * If a full-blown pressure washer is out of the question, check out AmmoNYC's Hoseless Lift Kit.
+* If a full-blown pressure washer is out of the question, check out AmmoNYC's Hoseless Lift Kit.
   * links
      1. https://www.ammonyc.com/shop/hoseless-lift-kit-150/
 
@@ -37,5 +37,5 @@ Be mindful that these are just what I use. There are other products on the marke
   * links
     1. https://www.autogeek.net/mictow.html
     2. https://www.amazon.com/gp/product/B0042Z0LEO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
-    
+
 # Waterless
