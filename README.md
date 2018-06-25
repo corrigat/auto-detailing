@@ -8,10 +8,14 @@ Many detailing products perform just as well when diluted, and the dilution rati
 ### Microfiber towels
 Now why does this have its' own section? Because not all microfiber towels are the same or designed for the same tasks. From fabric density to construction, you should learn about the differences over at [AutoGeek's website](https://www.autogeek.net/mictow.html). Also check out their cleaning products for these towels, as the products are one of few things that look like pure marketing cash grabs but are really not.
 
+Check out the [Microfiber Tools](tools/microfiber) section for categorized and suggested towel products.
+
 ### Exterior Wash
 Exterior washes are typically done when you have not been able to keep up with maintenance, or need to prep for using any kind of abrasive on your paint to remove scratches, water spots, or to do some final blend on chip repair. When considering if you need to do a full exterior wash, try to estimate how many microfiber towels you would use if you were to do a waterless wash.
 
 The tools and materials you'll need can be found in the [Ext-Wash Tools](tools/ext-wash) section for exterior wash. With these tools, you will use much less water than you are probably used to in the past.
+
+Keep in mind that washing does not, _not_, __not__ remove wax or sealant. That's what the wax removal section is for.
 
 #### How
 2-bucket method with pressure washer assist. Direct sunlight is not your friend here.
@@ -36,7 +40,7 @@ Optional: Hit the __Wheels__ section if you have no intention of removing them t
 
 9. Rinse the car top to bottom to remove the leftover soap.
 
-Perform Decontamination here if you are using an abrasive or DA later during the protect step.
+Perform Decontamination here if you are going to be compounding, polishing, or using a DA later during the protect step.
 
 10. Dry the car with your ultra absorbent towels. I usually pull my car into the garage for drying to avoid the sun or heat doing this for me and leaving spots or residue. A spray bottle with a 50/50 mix of Isopropyl Alcohol and distilled water is great for assisting in drying.
 
